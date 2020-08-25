@@ -129,67 +129,68 @@ via Roulettes and Other Analytic Methods</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(70).pdf" style="text-decoration:none;">Uniqueness and Non-Uniqueness of Static Vacuum Black Holes in Higher Dimensions</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(71).pdf" style="text-decoration:none;">Properties of a recent quantum extension of the Kruskal geometry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(71).pdf" style="text-decoration:none;">Cosmological Evolution of the Rolling Tachyon</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(72).pdf" style="text-decoration:none;">Isolated Horizons in 2 + 1 Gravity</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(72).pdf" style="text-decoration:none;">Uniqueness and non-uniqueness of static black holes in higher dimensions</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(73).pdf" style="text-decoration:none;">Dynamical Horizons: Energy, Angular Momentum, Fluxes and Balance Laws</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(74).pdf" style="text-decoration:none;">Quantum gravity, shadow states, and quantum mechanics</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(75).pdf" style="text-decoration:none;">Polymer and Fock representations for a Scalar field</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(76).pdf" style="text-decoration:none;">Mathematical structure of
-loop quantum cosmology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(73).pdf" style="text-decoration:none;">Uniqueness of (dilatonic) charged black holes and black p-branes in higher dimensions</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(74).pdf" style="text-decoration:none;">Gravitational instability in higher dimensions</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(75).pdf" style="text-decoration:none;">Tachyon Condensates, Carrollian Contraction of Lorentz Group, and Fundamental Strings</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(76).pdf" style="text-decoration:none;">The Maximum Tension Principle in General Relativity</a></li>
 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(77).pdf" style="text-decoration:none;">Non-minimally coupled scalar fields and isolated horizons</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(77).pdf" style="text-decoration:none;">Polyhedral Scattering of Fundamental Monopoles</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(78).pdf" style="text-decoration:none;">Non-minimal couplings, quantum geometry and black hole entropy</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(78).pdf" style="text-decoration:none;">Thoughts on Tachyon Cosmology</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(79).pdf" style="text-decoration:none;">How Black Holes Grow</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(79).pdf" style="text-decoration:none;">Causality and the Skyrme Model</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(80).pdf" style="text-decoration:none;">Dynamical Horizons and their properties</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(80).pdf" style="text-decoration:none;">Phantom Matter and the Cosmological Constant</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(81).pdf" style="text-decoration:none;">Multipole Moments of Isolated Horizons </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(81).pdf" style="text-decoration:none;">Gravitational Instantons, Confocal Quadrics and Separability of the Schr¨odinger and Hamilton-Jacobi equations </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(82).pdf" style="text-decoration:none;">BEYOND SPACE AND TIME</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(82).pdf" style="text-decoration:none;">Inflation and cosmological perturbations </a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(83).pdf" style="text-decoration:none;">The Duel: Strings versus Loops</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(83).pdf" style="text-decoration:none;">Topology and Signature Changes in Braneworlds</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(84).pdf" style="text-decoration:none;">Background Independent Quantum Gravity: A Status Report</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(84).pdf" style="text-decoration:none;">Properties of some five dimensional Einstein metrics</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(85).pdf" style="text-decoration:none;">Isolated and Dynamical Horizons and Their Applications</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(85).pdf" style="text-decoration:none;">On the stability of naked singularities</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(86).pdf" style="text-decoration:none;">The Inverted Big-Bang</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(86).pdf" style="text-decoration:none;">Nonlinear perturbations of the Kaluza-Klein monopole</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(87).pdf" style="text-decoration:none;">Time before Time: Classifications of universes in contemporary cosmology, and how to avoid the antinomy of the beginning and eternity of the world</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(87).pdf" style="text-decoration:none;">Fermions on Colliding Branes</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(88).pdf" style="text-decoration:none;">MATTERS OF GRAVITY</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(88).pdf" style="text-decoration:none;">On the Multiple Deaths of Whitehead's Theory of Gravity</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(89).pdf" style="text-decoration:none;">Gravity and the Quantum</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(90).pdf" style="text-decoration:none;">Quantum horizons and black hole entropy: Inclusion of distortion and rotation</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(91).pdf" style="text-decoration:none;">Some Uniqueness Results for Dynamical Horizons</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(92).pdf" style="text-decoration:none;">Black hole evaporation: A paradigm</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(89).pdf" style="text-decoration:none;">The Geometry of Small Causal Diamonds</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(90).pdf" style="text-decoration:none;">The Physics of 2-d Stringy Spacetimes</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(91).pdf" style="text-decoration:none;">Vacuum interpolation in supergravity via super p-branes</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(92).pdf" style="text-decoration:none;">Kinks and Time Machines</a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(93).pdf" style="text-decoration:none;">Semiclassical States for Constrained Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(93).pdf" style="text-decoration:none;">Macroscopic superstrings as interpolating solitons</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(94).pdf" style="text-decoration:none;">WAS EINSTEIN RIGHT? TESTING RELATIVITY AT THE CENTENARY</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(94).pdf" style="text-decoration:none;">Higher-dimensional resolution of dilatonic black hole singularities</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(95).pdf" style="text-decoration:none;">Causal sets and the deep structure of spacetime</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(96).pdf" style="text-decoration:none;">Quantum geometry and the Schwarzschild singularity</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(97).pdf" style="text-decoration:none;">Quantum Nature of the Big Bang</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(98).pdf" style="text-decoration:none;">Quantum Nature of the Big Bang:
-An Analytical and Numerical Investigation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(95).pdf" style="text-decoration:none;">ELECTRIC-MAGNETIC DUALITY
+ROTATIONS IN NON-LINEAR ELECTRODYNAMICS</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(96).pdf" style="text-decoration:none;">The Moduli Space Metric for Well-separated BPS Monopoles</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(97).pdf" style="text-decoration:none;">The Decay of Magnetic Fields in Kaluza-Klein Theory</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(98).pdf" style="text-decoration:none;">INSTANTONS AND SEVEN-BRANES
+IN TYPE IIB SUPERSTRING THEORY</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(99).pdf" style="text-decoration:none;">Gravity, Geometry and the Quantum</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(100).pdf" style="text-decoration:none;">The Issue of the Beginning in Quantum Gravity</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(101).pdf" style="text-decoration:none;">Quantum Nature of the Big Bang: Improved dynamics</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(102).pdf" style="text-decoration:none;">Mechanics of higher-dimensional black holes in asymptotically anti-de Sitter space-times</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(99).pdf" style="text-decoration:none;">Tunnelling with a Negative Cosmological Constant</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(100).pdf" style="text-decoration:none;">Pair Creation of Black Holes by Domain Walls</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(101).pdf" style="text-decoration:none;">THE SEN CONJECTURE FOR
+FUNDAMENTAL MONOPOLES OF DISTINCT TYPES</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(102).pdf" style="text-decoration:none;">Moduli, Scalar Charges, and the First Law of Black Hole Thermodynamics</a></li>
 
 
 
