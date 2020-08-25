@@ -193,8 +193,30 @@ FUNDAMENTAL MONOPOLES OF DISTINCT TYPES</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(102).pdf" style="text-decoration:none;">Moduli, Scalar Charges, and the First Law of Black Hole Thermodynamics</a></li>
 
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(103).pdf" style="text-decoration:none;">Universality of Low Energy Absorption Cross-Sections for Black Holes</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(104).pdf" style="text-decoration:none;">ENHANCEMENT OF SUPERSYMMETRY
+NEAR 5d BLACK HOLE HORIZON</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(105).pdf" style="text-decoration:none;">MASTER EQUATIONS AND MAJORANA SPINORS</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(106).pdf" style="text-decoration:none;">The tale of two centres</a></li>
 
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(107).pdf" style="text-decoration:none;">BLACK HOLES AND CRITICAL POINTS
+IN MODULI SPACE</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(108).pdf" style="text-decoration:none;">HyperKahler Manifolds & Multiply-Intersecting Branes</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(109).pdf" style="text-decoration:none;">Born-Infeld particles and Dirichlet p-branes</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(110).pdf" style="text-decoration:none;">Wormholes on the World Volume: Born-Infeld particles and Dirichlet p-branes</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(111).pdf" style="text-decoration:none;">QUANTUM GRAVITY/STRING/M-THEORY AS WE APPROACH THE 3RD MILLENNIUM</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(112).pdf" style="text-decoration:none;">Branes as BIons</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(113).pdf" style="text-decoration:none;">Wrapping Branes in Space and Time</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(114).pdf" style="text-decoration:none;">Some comments on Gravitational Entropy and the Inverse Mean Curvature Flow</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(115).pdf" style="text-decoration:none;">Two loop and all loop finite 4-metrics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(116).pdf" style="text-decoration:none;">A Bogomol'nyi equation for intersecting domain walls</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(117).pdf" style="text-decoration:none;">Holography and the Future Tube</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Gary-Gibbons-Publications/blob/master/gary(118).pdf" style="text-decoration:none;">Isometric embedding of BPS branes in flat spaces with two times</a></li>
 
 
 </ul>
