@@ -1,4 +1,116 @@
+<table class="infobox biography vcard">
+<tbody>
+<tr>
+<th colspan="2">
+<div class="fn">Gary Gibbons</div>
+<br />
+<div class="honorific-suffix"><span class="noexcerpt nowraplinks"><a title="Fellow of the Royal Society" href="https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society">FRS</a></span></div>
+</th>
+</tr>
+<tr>
+<td colspan="2"><a class="image" href="220px-GaryGibbons.jpg"><img src="220px-GaryGibbons.jpg" srcset="220px-GaryGibbons.jpg" width="220" height="293" data-file-width="360" data-file-height="480" /></a>
+<div>Gary Gibbons at Harvard University</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>
+<div class="nickname">Gary William Gibbons</div>
+<br />1 July 1946<span class="noprint ForceAgeToShow">&nbsp;(age&nbsp;74)</span><br />
+<div class="birthplace"><a title="Coulsdon" href="https://en.wikipedia.org/wiki/Coulsdon">Coulsdon</a>, London, England</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Education</th>
+<td><a title="Purley High School for Boys" href="https://en.wikipedia.org/wiki/Purley_High_School_for_Boys">Purley County Grammar School</a></td>
+</tr>
+<tr>
+<th scope="row">Alma&nbsp;mater</th>
+<td><a title="University of Cambridge" href="https://en.wikipedia.org/wiki/University_of_Cambridge">University of Cambridge</a>&nbsp;(BA, PhD)</td>
+</tr>
+<tr>
+<th scope="row">Known&nbsp;for</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="Gibbons&ndash;Hawking ansatz" href="https://en.wikipedia.org/wiki/Gibbons%E2%80%93Hawking_ansatz">Gibbons&ndash;Hawking ansatz</a></li>
+<li><a title="Gibbons&ndash;Hawking space" href="https://en.wikipedia.org/wiki/Gibbons%E2%80%93Hawking_space">Gibbons&ndash;Hawking space</a></li>
+<li><a title="Gibbons&ndash;Hawking effect" href="https://en.wikipedia.org/wiki/Gibbons%E2%80%93Hawking_effect">Gibbons&ndash;Hawking effect</a></li>
+<li><a title="Gibbons&ndash;Hawking&ndash;York boundary term" href="https://en.wikipedia.org/wiki/Gibbons%E2%80%93Hawking%E2%80%93York_boundary_term">Gibbons&ndash;Hawking&ndash;York boundary term</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Awards</th>
+<td>
+<div class="plainlist">
+<ul>
+<li>PhD (1973)</li>
+<li><a title="Fellow of the Royal Society" href="https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society">FRS</a>&nbsp;(1999)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Scientific career</strong></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category">
+<div class="plainlist">
+<ul>
+<li>Theoretical physics</li>
+<li><a title="Euclidean quantum gravity" href="https://en.wikipedia.org/wiki/Euclidean_quantum_gravity">Euclidean quantum gravity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="University of Cambridge" href="https://en.wikipedia.org/wiki/University_of_Cambridge">University of Cambridge</a></li>
+<li><a title="Trinity College, Cambridge" href="https://en.wikipedia.org/wiki/Trinity_College,_Cambridge">Trinity College, Cambridge</a></li>
+<li><a title="Max Planck Institute for Physics" href="https://en.wikipedia.org/wiki/Max_Planck_Institute_for_Physics">Max Planck Institute for Physics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a title="" href="https://en.wikipedia.org/wiki/Thesis">Thesis</a></th>
+<td><a class="external text" href="http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.599378" rel="nofollow"><em>Some aspects of gravitational radiation and gravitational collapse</em></a>&nbsp;(1973)</td>
+</tr>
+<tr>
+<th scope="row"><a title="Doctoral advisor" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a class="mw-redirect" title="Dennis William Sciama" href="https://en.wikipedia.org/wiki/Dennis_William_Sciama">Dennis Sciama</a></li>
+<li><a title="Stephen Hawking" href="https://en.wikipedia.org/wiki/Stephen_Hawking">Stephen Hawking</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td><a title="Chris Hull" href="https://en.wikipedia.org/wiki/Chris_Hull">Chris Hull</a></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a class="external text" href="http://damtp.cam.ac.uk/people/g.w.gibbons" rel="nofollow">damtp<wbr />.cam<wbr />.ac<wbr />.uk<wbr />/people<wbr />/g<wbr />.w<wbr />.gibbons</a></span></td>
+</tr>
+</tbody>
+</table>
+</br>
 
+
+
+
+</br>
+
+<h2> Publications </h2>
 
 <ul>
 
