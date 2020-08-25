@@ -105,7 +105,11 @@
 </table>
 </br>
 
-
+<p><strong>Gary William Gibbons</strong>&nbsp;<span class="noexcerpt nowraplinks"><a title="Fellow of the Royal Society" href="https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society">FRS</a></span>&nbsp;(born 1 July 1946)&nbsp;is a British&nbsp;<a title="Theoretical physics" href="https://en.wikipedia.org/wiki/Theoretical_physics">theoretical physicist</a>.</p>
+<p>Gibbons was elected a&nbsp;<a title="Fellow of the Royal Society" href="https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society">Fellow of the Royal Society</a>&nbsp;(FRS) in 1999. His nomination reads</p>
+<blockquote class="templatequote">
+<p>Distinguished for his contributions to General Relativity and the Quantum Theory of Gravity. He played a leading role in the development of the Euclidean approach to quantum gravity and showed how it could be used to understand the thermal character of black holes and inflating universes. This revealed a deep and unexpected relationship between gravitation and thermodynamics. As part of the Euclidean quantum gravity programme, he discovered many of the known gravitational instantons and classified their properties. In the more conventional Lorentzian approach to gravity, he has studied the behaviour of solitons in gauge theories and General Relativity and has shown how supersymmetry leads to Bogomolny inequalities on the masses and charges. More recently he has been investigating the role of topology in gravity and has obtained important restrictions on how the topology of spacetime can change. He is recognised world wide as a leader in the field.</p>
+</blockquote>
 
 
 </br>
